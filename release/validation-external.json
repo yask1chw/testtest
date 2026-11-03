@@ -1,0 +1,34 @@
+[
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/remixicon/4.5.0/remixicon.min.css",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Onest:wght@300;400;500;600;700&display=swap",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://readdy.ai/api/search-image?query=Calm%20medical%20scene%20of%20a%20doctor%20in%20a%20white%20coat%20with%20a%20medical%20bag%20standing%20in%20a%20bright%20neutral%20apartment%20hallway%2C%20soft%20muted%20teal%20and%20warm%20beige%20tones%2C%20natural%20daylight%20from%20a%20window%2C%20clean%20minimal%20editorial%20photography%2C%20professional%20and%20reassuring%20atmosphere%2C%20shallow%20depth%20of%20field&width=900&height=1100&seq=hero-narkolog-home-01&orientation=portrait",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://readdy.ai/api/search-image?query=Clean%20quiet%20medical%20consultation%20room%20interior%20with%20a%20wooden%20desk%2C%20two%20soft%20chairs%2C%20muted%20sage%20green%20walls%20and%20warm%20natural%20light%20through%20sheer%20curtains%2C%20minimal%20calm%20healthcare%20design%2C%20no%20people%2C%20editorial%20interior%20photography%2C%20high%20detail&width=1000&height=800&seq=clinic-interior-01&orientation=landscape",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://readdy.ai/api/search-image?query=Professional%20portrait%20of%20a%20calm%20male%20doctor%20of%20Eastern%20European%20Slavic%20appearance%20in%20his%20late%20forties%2C%20light%20brown%20hair%2C%20light%20eyes%2C%20wearing%20a%20white%20medical%20coat%20over%20a%20light%20shirt%2C%20soft%20teal%20studio%20background%2C%20natural%20window%20light%2C%20clean%20modern%20medical%20editorial%20photography%2C%20neutral%20expression%2C%20high%20detail&width=600&height=700&seq=doctor-kovalev-01&orientation=portrait&nocache=true",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://readdy.ai/api/search-image?query=Professional%20portrait%20of%20a%20friendly%20female%20doctor%20of%20Eastern%20European%20Slavic%20appearance%20in%20her%20early%20forties%2C%20light%20brown%20hair%20pulled%20back%2C%20fair%20skin%2C%20wearing%20a%20white%20medical%20coat%2C%20soft%20teal%20studio%20background%2C%20natural%20window%20light%2C%20clean%20modern%20medical%20editorial%20photography%2C%20warm%20confident%20expression%2C%20high%20detail&width=600&height=700&seq=doctor-ignatyeva-01&orientation=portrait&nocache=true",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://readdy.ai/api/search-image?query=Professional%20portrait%20of%20a%20male%20doctor%20of%20Eastern%20European%20Slavic%20appearance%20in%20his%20late%20thirties%2C%20short%20dark%20blond%20hair%2C%20fair%20skin%2C%20wearing%20a%20white%20medical%20coat%2C%20soft%20teal%20studio%20background%2C%20natural%20window%20light%2C%20clean%20modern%20medical%20editorial%20photography%2C%20thoughtful%20calm%20expression%2C%20high%20detail&width=600&height=700&seq=doctor-sokolov-01&orientation=portrait&nocache=true",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  }
+]

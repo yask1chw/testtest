@@ -1,0 +1,307 @@
+[
+  {
+    "path": "/",
+    "status": 200,
+    "location": null
+  },
+  {
+    "path": "/index.html",
+    "status": 301,
+    "location": "http://127.0.0.1:8082/"
+  },
+  {
+    "path": "/uslugi/",
+    "status": 200,
+    "location": null
+  },
+  {
+    "path": "/uslugi",
+    "status": 301,
+    "location": "http://127.0.0.1:8082/uslugi/"
+  },
+  {
+    "path": "/uslugi/index.html",
+    "status": 301,
+    "location": "http://127.0.0.1:8082/uslugi/"
+  },
+  {
+    "path": "/narkolog-na-dom/",
+    "status": 200,
+    "location": null
+  },
+  {
+    "path": "/narkolog-na-dom",
+    "status": 301,
+    "location": "http://127.0.0.1:8082/narkolog-na-dom/"
+  },
+  {
+    "path": "/narkolog-na-dom/index.html",
+    "status": 301,
+    "location": "http://127.0.0.1:8082/narkolog-na-dom/"
+  },
+  {
+    "path": "/vyvod-iz-zapoya/",
+    "status": 200,
+    "location": null
+  },
+  {
+    "path": "/vyvod-iz-zapoya",
+    "status": 301,
+    "location": "http://127.0.0.1:8082/vyvod-iz-zapoya/"
+  },
+  {
+    "path": "/vyvod-iz-zapoya/index.html",
+    "status": 301,
+    "location": "http://127.0.0.1:8082/vyvod-iz-zapoya/"
+  },
+  {
+    "path": "/kapelnicy/",
+    "status": 200,
+    "location": null
+  },
+  {
+    "path": "/kapelnicy",
+    "status": 301,
+    "location": "http://127.0.0.1:8082/kapelnicy/"
+  },
+  {
+    "path": "/kapelnicy/index.html",
+    "status": 301,
+    "location": "http://127.0.0.1:8082/kapelnicy/"
+  },
+  {
+    "path": "/kodirovanie/",
+    "status": 200,
+    "location": null
+  },
+  {
+    "path": "/kodirovanie",
+    "status": 301,
+    "location": "http://127.0.0.1:8082/kodirovanie/"
+  },
+  {
+    "path": "/kodirovanie/index.html",
+    "status": 301,
+    "location": "http://127.0.0.1:8082/kodirovanie/"
+  },
+  {
+    "path": "/lechenie-alkogolizma/",
+    "status": 200,
+    "location": null
+  },
+  {
+    "path": "/lechenie-alkogolizma",
+    "status": 301,
+    "location": "http://127.0.0.1:8082/lechenie-alkogolizma/"
+  },
+  {
+    "path": "/lechenie-alkogolizma/index.html",
+    "status": 301,
+    "location": "http://127.0.0.1:8082/lechenie-alkogolizma/"
+  },
+  {
+    "path": "/lechenie-narkomanii/",
+    "status": 200,
+    "location": null
+  },
+  {
+    "path": "/lechenie-narkomanii",
+    "status": 301,
+    "location": "http://127.0.0.1:8082/lechenie-narkomanii/"
+  },
+  {
+    "path": "/lechenie-narkomanii/index.html",
+    "status": 301,
+    "location": "http://127.0.0.1:8082/lechenie-narkomanii/"
+  },
+  {
+    "path": "/stacionar/",
+    "status": 200,
+    "location": null
+  },
+  {
+    "path": "/stacionar",
+    "status": 301,
+    "location": "http://127.0.0.1:8082/stacionar/"
+  },
+  {
+    "path": "/stacionar/index.html",
+    "status": 301,
+    "location": "http://127.0.0.1:8082/stacionar/"
+  },
+  {
+    "path": "/konsultaciya-narkologa/",
+    "status": 200,
+    "location": null
+  },
+  {
+    "path": "/konsultaciya-narkologa",
+    "status": 301,
+    "location": "http://127.0.0.1:8082/konsultaciya-narkologa/"
+  },
+  {
+    "path": "/konsultaciya-narkologa/index.html",
+    "status": 301,
+    "location": "http://127.0.0.1:8082/konsultaciya-narkologa/"
+  },
+  {
+    "path": "/ceny/",
+    "status": 200,
+    "location": null
+  },
+  {
+    "path": "/ceny",
+    "status": 301,
+    "location": "http://127.0.0.1:8082/ceny/"
+  },
+  {
+    "path": "/ceny/index.html",
+    "status": 301,
+    "location": "http://127.0.0.1:8082/ceny/"
+  },
+  {
+    "path": "/vrachi/",
+    "status": 200,
+    "location": null
+  },
+  {
+    "path": "/vrachi",
+    "status": 301,
+    "location": "http://127.0.0.1:8082/vrachi/"
+  },
+  {
+    "path": "/vrachi/index.html",
+    "status": 301,
+    "location": "http://127.0.0.1:8082/vrachi/"
+  },
+  {
+    "path": "/o-klinike/",
+    "status": 200,
+    "location": null
+  },
+  {
+    "path": "/o-klinike",
+    "status": 301,
+    "location": "http://127.0.0.1:8082/o-klinike/"
+  },
+  {
+    "path": "/o-klinike/index.html",
+    "status": 301,
+    "location": "http://127.0.0.1:8082/o-klinike/"
+  },
+  {
+    "path": "/otzyvy/",
+    "status": 200,
+    "location": null
+  },
+  {
+    "path": "/otzyvy",
+    "status": 301,
+    "location": "http://127.0.0.1:8082/otzyvy/"
+  },
+  {
+    "path": "/otzyvy/index.html",
+    "status": 301,
+    "location": "http://127.0.0.1:8082/otzyvy/"
+  },
+  {
+    "path": "/stati/",
+    "status": 200,
+    "location": null
+  },
+  {
+    "path": "/stati",
+    "status": 301,
+    "location": "http://127.0.0.1:8082/stati/"
+  },
+  {
+    "path": "/stati/index.html",
+    "status": 301,
+    "location": "http://127.0.0.1:8082/stati/"
+  },
+  {
+    "path": "/kontakty/",
+    "status": 200,
+    "location": null
+  },
+  {
+    "path": "/kontakty",
+    "status": 301,
+    "location": "http://127.0.0.1:8082/kontakty/"
+  },
+  {
+    "path": "/kontakty/index.html",
+    "status": 301,
+    "location": "http://127.0.0.1:8082/kontakty/"
+  },
+  {
+    "path": "/privacy-policy/",
+    "status": 200,
+    "location": null
+  },
+  {
+    "path": "/privacy-policy",
+    "status": 301,
+    "location": "http://127.0.0.1:8082/privacy-policy/"
+  },
+  {
+    "path": "/privacy-policy/index.html",
+    "status": 301,
+    "location": "http://127.0.0.1:8082/privacy-policy/"
+  },
+  {
+    "path": "/platnye-uslugi/",
+    "status": 200,
+    "location": null
+  },
+  {
+    "path": "/platnye-uslugi",
+    "status": 301,
+    "location": "http://127.0.0.1:8082/platnye-uslugi/"
+  },
+  {
+    "path": "/platnye-uslugi/index.html",
+    "status": 301,
+    "location": "http://127.0.0.1:8082/platnye-uslugi/"
+  },
+  {
+    "path": "/does-not-exist/",
+    "status": 404,
+    "location": null
+  },
+  {
+    "path": "/stati/not-a-real-article/",
+    "status": 404,
+    "location": null
+  },
+  {
+    "path": "/assets/missing.js",
+    "status": 404,
+    "location": null
+  },
+  {
+    "path": "/politika-konfidencialnosti/",
+    "status": 301,
+    "location": "http://127.0.0.1:8082/privacy-policy/"
+  },
+  {
+    "path": "/politika-konfidencialnosti",
+    "status": 301,
+    "location": "http://127.0.0.1:8082/privacy-policy/"
+  },
+  {
+    "path": "/assets/favicon.svg",
+    "status": 200,
+    "location": null
+  },
+  {
+    "path": "/assets/index-Bn8TaPvN.css",
+    "status": 200,
+    "location": null
+  },
+  {
+    "path": "/assets/index-Bw4tyluY.js",
+    "status": 200,
+    "location": null
+  }
+]

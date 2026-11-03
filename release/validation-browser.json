@@ -1,0 +1,100 @@
+{
+  "pages": [
+    {
+      "path": "/",
+      "hydrated": true,
+      "h1": "Наркологическая помощь в Ижевске — на дому и в клинике"
+    },
+    {
+      "path": "/uslugi/",
+      "hydrated": true,
+      "h1": "Наркологические услуги в Ижевске"
+    },
+    {
+      "path": "/narkolog-na-dom/",
+      "hydrated": true,
+      "h1": "Вызов нарколога на дом в Ижевске"
+    },
+    {
+      "path": "/vyvod-iz-zapoya/",
+      "hydrated": true,
+      "h1": "Вывод из запоя в Ижевске"
+    },
+    {
+      "path": "/kapelnicy/",
+      "hydrated": true,
+      "h1": "Капельницы при алкогольной интоксикации"
+    },
+    {
+      "path": "/kodirovanie/",
+      "hydrated": true,
+      "h1": "Кодирование от алкоголизма в Ижевске"
+    },
+    {
+      "path": "/lechenie-alkogolizma/",
+      "hydrated": true,
+      "h1": "Лечение алкогольной зависимости в Ижевске"
+    },
+    {
+      "path": "/lechenie-narkomanii/",
+      "hydrated": true,
+      "h1": "Лечение наркотической зависимости"
+    },
+    {
+      "path": "/stacionar/",
+      "hydrated": true,
+      "h1": "Наркологический стационар в Ижевске"
+    },
+    {
+      "path": "/konsultaciya-narkologa/",
+      "hydrated": true,
+      "h1": "Консультация нарколога в Ижевске"
+    },
+    {
+      "path": "/ceny/",
+      "hydrated": true,
+      "h1": "Цены на медицинские услуги"
+    },
+    {
+      "path": "/vrachi/",
+      "hydrated": true,
+      "h1": "Врачи клиники"
+    },
+    {
+      "path": "/o-klinike/",
+      "hydrated": true,
+      "h1": "О наркологической клинике"
+    },
+    {
+      "path": "/otzyvy/",
+      "hydrated": true,
+      "h1": "Отзывы пациентов"
+    },
+    {
+      "path": "/stati/",
+      "hydrated": true,
+      "h1": "Статьи о наркологической помощи"
+    },
+    {
+      "path": "/kontakty/",
+      "hydrated": true,
+      "h1": "Как связаться с наркологической клиникой в Ижевске"
+    },
+    {
+      "path": "/privacy-policy/",
+      "hydrated": true,
+      "h1": "Политика обработки персональных данных"
+    },
+    {
+      "path": "/platnye-uslugi/",
+      "hydrated": true,
+      "h1": "Информация о платных медицинских услугах"
+    }
+  ],
+  "errors": [],
+  "faq": "passed",
+  "scroll_to_top": "passed",
+  "anchors": "passed",
+  "modal": "passed",
+  "no_javascript": "passed"
+}

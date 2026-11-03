@@ -1,0 +1,22 @@
+Options -Indexes -MultiViews
+DirectoryIndex index.html
+AddDefaultCharset UTF-8
+ErrorDocument 404 /404.html
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+# One canonical URL for HTML documents; preserve query strings.
+RewriteCond %{THE_REQUEST} \s/+(.*/)?index\.html(?:[?\s]) [NC]
+RewriteRule ^(.*)index\.html$ /$1 [R=301,L]
+RewriteRule ^politika-konfidencialnosti/?$ /privacy-policy/ [R=301,L]
+
+# Real directories and files are served directly (mod_dir adds trailing slashes).
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [END]
+
+# All public routes have generated directories. Unknown routes get a real 404,
+# rather than a home-page fallback with misleading HTTP 200.
+RewriteRule ^ - [R=404,L]
+</IfModule>
