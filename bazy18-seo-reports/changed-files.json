@@ -1,0 +1,608 @@
+[
+  {
+    "file": ".htaccess",
+    "before_sha256": "81f600acaf6183c1a5be5a26a63d2cbf10da3d7be1f7801a6729d3af02d459e4",
+    "after_sha256": "d64b373c1ea17c32c856c099b6d44d03b98264ccfe4d9bc0e2b3f6f87d1f0871"
+  },
+  {
+    "file": "404.html",
+    "before_sha256": "a57f906d52344b41e2e32d797dea7fdf8ce6e73cb42c34c0d5cfb8b2143f060c",
+    "after_sha256": "94490e2c1a6821e8f8af8f29afab827440694186eb46b0a9bf7e6548e84bbf31"
+  },
+  {
+    "file": "a-frame-domiki/index.html",
+    "before_sha256": "8b96a917256f84f62ae1297a56b6aad0811d877a15f46a8fcde115f35c0cd9a2",
+    "after_sha256": "4aab90f24018243ff678772a569c53a4ebecda0616eb4b9daa4758beebff6e61"
+  },
+  {
+    "file": "aktivnyy-otdyh/index.html",
+    "before_sha256": "153f1cc04e95465ac274ee49da9760a3412018a09f566bf11e3e08d647fd0da5",
+    "after_sha256": "6992c0c5592d98303407bddb977527fd9ce3d63f740a65fa16be88ef52d58ced"
+  },
+  {
+    "file": "arenda-besedok/index.html",
+    "before_sha256": "79c04062e55791643ffa6a01c217a8b823e861bacb4088f588aa001495a498f3",
+    "after_sha256": "2beca669c0f20d69422debc04ce71ebc668ec4f34c85fe68e60e63957e788a8f"
+  },
+  {
+    "file": "arenda-kottedzha/index.html",
+    "before_sha256": "7c459800c3bd4fc1fb703dc264561204beefee25247e5bd1ee105dba9f1af636",
+    "after_sha256": "555ca26885d24241334c19a742025262f3d2df6d3b3652e7cabb4d75098baac2"
+  },
+  {
+    "file": "assets/photo-unavailable.svg",
+    "before_sha256": null,
+    "after_sha256": "3433f467a9abae876b3c2a5ca22344dd21fd4e77d8fea283dda638056d3e1744"
+  },
+  {
+    "file": "assets/site-dad9b63cc5d4.js",
+    "before_sha256": null,
+    "after_sha256": "dad9b63cc5d44e0ffcc315d056dbf2abb594a4927794ef17f849ec0f3152d889"
+  },
+  {
+    "file": "assets/site.css",
+    "before_sha256": "2c05eab6dbcbd0afda6ed17f088afcf8359f3f3c8e3ba7dfe41b9af04231caa3",
+    "after_sha256": "84549b476713bdc87b5a1e345ec98a16a0cc1e466e5d002c058a7fa475cdf571"
+  },
+  {
+    "file": "banya-i-basseyn/index.html",
+    "before_sha256": "8172e09dc47d5fde8247a8425fc141943dc7194e260748cebc4c5867bd1b4533",
+    "after_sha256": "2b28b5d19a926a236d4576bb46d6790f14fad299b706549c8b4c56ebdf4f8c03"
+  },
+  {
+    "file": "bazy/biathlon-village/index.html",
+    "before_sha256": "f265ced491351e213022579a29b0f1e61616a5b62782548e5bc17fc57c9b3135",
+    "after_sha256": "696c0176528f94cbf328fa6af6e7c6dd1798894b2602f38de6b726449a15133d"
+  },
+  {
+    "file": "bazy/botanika/index.html",
+    "before_sha256": "6ed548ea035a25bab218c502696fc6eca70cfa6bec49c933196922fc8f8f49b0",
+    "after_sha256": "521133f4905e12870a24c0f1063690a99d5e0f2b6cb3deeeabdc09dd20e1cacf"
+  },
+  {
+    "file": "bazy/dobroles/index.html",
+    "before_sha256": "adbf288a9a44c13b2e7f7d9d4346dbbf478c29c11b32814613741f1b72115902",
+    "after_sha256": "a4f1239df43f9b784073369b250697f76dbc8f724af3b80a7bfecb7dd356ea8d"
+  },
+  {
+    "file": "bazy/eco-port/index.html",
+    "before_sha256": "3701f5482c654160279c6ee575c175131a2586b387f472d258e80812493605cb",
+    "after_sha256": "e0d6e4d2a1505ab506e6464474334737c0f473e9343815098dae71ad2ebfcf16"
+  },
+  {
+    "file": "bazy/femili-park/index.html",
+    "before_sha256": "9f36e7261624de878a191450356718f9843c535cd3a81b9a6586661b36f25bf0",
+    "after_sha256": "6cad76e0c22acadceb668d2f6ad5b1dd521d417fc2c74abd4183d42a0d3d49d5"
+  },
+  {
+    "file": "bazy/femili-tayms/index.html",
+    "before_sha256": "f7ec57892fc69639e76173baa1fde652dd9b1e53034532b0de15e6a678164cd6",
+    "after_sha256": "762d055d387cb7297414091aa9e23d16a726674ea4d37b01a994ef6114574654"
+  },
+  {
+    "file": "bazy/holiday-park/index.html",
+    "before_sha256": "c7bc25b203f7e473ad6eb6bfd9732cb36797b64a2337e4381c52833fd2762418",
+    "after_sha256": "9bff11e740f8ee16ea6ac27fc64d58ce7095e55ad4f82589d489f529192c9dee"
+  },
+  {
+    "file": "bazy/kostovaty/index.html",
+    "before_sha256": "8c805ea248973e7f138fe857fc6288806ed5091ab6efe723bb98d44fa5792130",
+    "after_sha256": "da8b3a13be371c976d73b90d7d2263b51c0a5ea52f00e5ac658edff24c656928"
+  },
+  {
+    "file": "bazy/luhari/index.html",
+    "before_sha256": "0dad6776e1b65e4f5871291fe59cb55135c445773763d4525d675c1bfdf6f037",
+    "after_sha256": "2bb533542519a5c513e75f32c53ead7434a18b1a3d0276c45052861987b8bc33"
+  },
+  {
+    "file": "bazy/sviristeli-prileteli/index.html",
+    "before_sha256": "01168308d5eea27c072655714a2de522cc97fe9b915503818c97698d78a235b2",
+    "after_sha256": "ec05014fd4f83d90264f7a21bf60a6c9f6df69349b56adedabf2180726e63c02"
+  },
+  {
+    "file": "bazy-dlya-rybalki/index.html",
+    "before_sha256": "f07fc4e15d7c8fff0b7cbd58f60816cf6f6d67f42960aaec225603ea4e490eb1",
+    "after_sha256": "04680b09f7a898f74d02b750ddded237ffdca5768d0889f10a46e0fe10da936d"
+  },
+  {
+    "file": "bazy-dlya-rybalki/letom/index.html",
+    "before_sha256": "997b76f28ec64e3c339265e3ccd1fed2c82349f328bb21490b6d2d0299a8d082",
+    "after_sha256": "18560bab7cdceb4bf41c3b9b6e40c26858ae89bb3b2c4ffbbab935ab041fa4d7"
+  },
+  {
+    "file": "bazy-dlya-rybalki/s-lodkoy/index.html",
+    "before_sha256": "ea94e36bf60aff42bd42a20349370e248b042715b54caad6e687a3003d18a079",
+    "after_sha256": "620f848c2664ee5bd1647a353088f74cbf17dcab44e1a5a341496e0e4e38a3b9"
+  },
+  {
+    "file": "bazy-dlya-rybalki/zimoy/index.html",
+    "before_sha256": "6cb7f1e3d163193a82654806aaca0c583ba4c0e29b0923a1b31dec8af63b50b0",
+    "after_sha256": "4bff89526ce012835cdbbaf5d51ccbabb228e75dc4ece69c977c4047dcd01211"
+  },
+  {
+    "file": "bazy-na-kame/index.html",
+    "before_sha256": "906c8691216baf2dc3e2ff16655d6753ee42a8d2501464bb620c73e14f08f5e3",
+    "after_sha256": "a1d8ece0a1219d626188606f57a846671ecd86b500bd538e7789f5ff3b359890"
+  },
+  {
+    "file": "bazy-otdyha-s-baney/dom-s-russkoy-baney/index.html",
+    "before_sha256": "098d8da574b56761c18ae6114514ed3642ead56ce66df4336f38532ad594e651",
+    "after_sha256": "7858cc344e0ad61333aa9c54debff09f24017d8ec74c0b56e673775624e5257d"
+  },
+  {
+    "file": "bazy-otdyha-s-baney/index.html",
+    "before_sha256": "dad601ef977bc22540403909d59e3379bc492bf993a461a3f26984fc4f15286e",
+    "after_sha256": "72802d12f8bb9473d50c58484aa3369750325f4f4e6a4c4dc0330ef0e9e3d50f"
+  },
+  {
+    "file": "bazy-otdyha-s-baney/s-chanom/index.html",
+    "before_sha256": "1a9711e8ded89a4b826c645717dd798829e2e2b3bfbda21357a7b435627e3652",
+    "after_sha256": "b72b7c6ca7311f3cf383bbf7880fb8169e0d23a4b3fb29d6273dd30e7fbdb037"
+  },
+  {
+    "file": "bazy-otdyha-s-baney/u-vody/index.html",
+    "before_sha256": "398d7055393ca0e80df8e2b92f528124ac118dbcd556141d81fa42ba8ae7abb1",
+    "after_sha256": "fc1469e58a29f47c4dbb9aa9d5b35b9d90e9357333ed22aefa5e443795a963eb"
+  },
+  {
+    "file": "bazy-otdyha-s-basseynom/index.html",
+    "before_sha256": "d216a0f209976344eb189cc2697144cd833d4a50d14286bf453685d5d7d12b9a",
+    "after_sha256": "bc4f1e38919de1a1063a93913ec7156ef4cd9c602154e8e96ea7289fff33574f"
+  },
+  {
+    "file": "bazy-otdyha-s-detmi/index.html",
+    "before_sha256": "eeff7fcce5e1a9ba2ef05fa055c916f67d6b119fd0a04cdaa5b9b9819433a0d3",
+    "after_sha256": "645dd72da18a392a7210c5f2f32586b21acdabf089f08cb65feee281109aa6a3"
+  },
+  {
+    "file": "bazy-s-chanom/index.html",
+    "before_sha256": "e48d66a702659a9b314c602ad54981afd18144c062b81a72c93b5a6faaf76e3c",
+    "after_sha256": "34268ca5f9dc7e5f3fc8faf48a01bdf4358cae421f5bcd7372ef1c51f8121d76"
+  },
+  {
+    "file": "bazy-s-mangalom/index.html",
+    "before_sha256": "d54d7f58761cebdf7be86724e6ffa5de20d9efa7584d59d08f5d033642fc8723",
+    "after_sha256": "c7baba2b48f31e3203b4786e281ecbd38f7bca7699dc1a8d05f1d975f7920f97"
+  },
+  {
+    "file": "bazy-s-pitaniem/index.html",
+    "before_sha256": "7058df877aa067010acdf0524ef55a2f7a405e70204d04e9d11d6d1aefd2966f",
+    "after_sha256": "6cd5075aa8712b9d945281addd2907d6a0dd939f4112e1c0d9337b789708def5"
+  },
+  {
+    "file": "bazy-s-plyazhem/index.html",
+    "before_sha256": "78334002f6ba28789e7e0ef63b3f3f73e28f24db891b710603feddef8b8ba287",
+    "after_sha256": "0b5d06a9c87147526e9463a845b5c411e305ca63be0d2d63512ebb76e6a4034c"
+  },
+  {
+    "file": "bazy-s-restoranom/index.html",
+    "before_sha256": "4644c37fd3fdc392a84d25b559bad8f7dbd2b9e25e1ffc301c9381b8b6ddf30e",
+    "after_sha256": "b457684aa7c3189be90f8c9aa69e73ab5912eff62a91c3fc3e94464f5dad28c5"
+  },
+  {
+    "file": "bazy-s-zavtrakom/index.html",
+    "before_sha256": "db23210c28f108ae43124e0b441fbb158d8ea72bd8cd842a5e8bd7e000887d26",
+    "after_sha256": "dfda494470ac3e1ce8f9efc188b98421a55dcbb3df4b1c44bdf4518a4676f039"
+  },
+  {
+    "file": "bazy-s-zhivotnymi/index.html",
+    "before_sha256": "86ab69f29a7812da3ff6a348b7f4e8b0051eb98f5ac59c7f6d2b5004d305e84e",
+    "after_sha256": "d729397524e4dd76e97c6979e99537e190433a5395c180782a8f191c9eb06526"
+  },
+  {
+    "file": "bazy-u-vody/domiki-na-beregu/index.html",
+    "before_sha256": "3757f942805f45181e80adbb16e9a4c779c47718d763533418e8095278430a3b",
+    "after_sha256": "cd6c33eb7ef71b0e9f0e5cf354d0cdedcb5cb6d8c2ee997227f8e3e0fda066e8"
+  },
+  {
+    "file": "bazy-u-vody/index.html",
+    "before_sha256": "c5932d609afbb41fc547955f7dc43890a37dbf91133195dc084eea53be08fed2",
+    "after_sha256": "02cbda5fcf8ac1d28ebabe4cef56b7d91787744141b93b03c55b08f54022bb75"
+  },
+  {
+    "file": "bazy-v-lesu/index.html",
+    "before_sha256": "adcbeefa61bcf8c5c5f260a24f23a9ff90557e5261ff0e91dd5f3172cd3d874f",
+    "after_sha256": "d09a4c55e8c51f20aa6375610bd8b1ff54085a63f51f4fca363d5e01a6aa6a16"
+  },
+  {
+    "file": "blog/index.html",
+    "before_sha256": "e870289682965c7d9c287386d7d05b223af2491d6897cbf577d7ed90f5a7253a",
+    "after_sha256": "43fc99c63bd3baf8066f09ad622e8fda9612606847d60205474cb383c550bc61"
+  },
+  {
+    "file": "den-rozhdeniya/index.html",
+    "before_sha256": "c6a4260b8b29be4147a8f9182c72c2718e398228a6dfe41877429947d36590f9",
+    "after_sha256": "b0f95834b0d709e16051b65973c2dd518386fc5d1383fdcace6acab3cc0c8f85"
+  },
+  {
+    "file": "devichnik-i-malchishnik/index.html",
+    "before_sha256": "5a4231c077a74eeb6244c18503ba01e9a2e96da3eb2ad345ea7b10af95fe51ef",
+    "after_sha256": "d5c741adee138d6a29f6bd1a1471e78f9d3191d674e502a4ade58d01f2370263"
+  },
+  {
+    "file": "dlya-bolshoy-kompanii/index.html",
+    "before_sha256": "759a9f8ed4229e5142e3ddf8e5642a630c64eeda53810fbbaac3561cce9e37a0",
+    "after_sha256": "7e8b5c844e79620b1ad78902beaee7ef30fcdfb27e89b104c3465daf956586f0"
+  },
+  {
+    "file": "dobavit-bazu/index.html",
+    "before_sha256": "15e9bb723db878a6ca84a6b0aca22bd69ffa98a17e29a358b188e865aa547f0e",
+    "after_sha256": "fdc0ccecea96a81dcc725b6004557746d140cbf017d4b139a8f9c1c1dbe31997"
+  },
+  {
+    "file": "doma-na-10-chelovek/index.html",
+    "before_sha256": "47d370db68ae2c1bd907fb35604d13fd3f980f9e52c435a5e22e0435b14ba369",
+    "after_sha256": "5e918abfbfc334e711e9da4165e14cf17d4328e50f4ec6fffd5d4bed7f243940"
+  },
+  {
+    "file": "domiki-na-4-cheloveka/index.html",
+    "before_sha256": "4082bfc93c8c9fcef9da1c07392f26ef62f8e24707c6f0ea34283abc3599efd2",
+    "after_sha256": "560a7a3e7198b868abc42aba1956d544882260cb00e18c86c252e8dbb94cffe9"
+  },
+  {
+    "file": "domiki-na-dvoih/index.html",
+    "before_sha256": "3b5c308e516ad4d55e2d0dcb68e41bb58ae5531a7209cb8b40f652592393bdd0",
+    "after_sha256": "04489147fdf3927d368e34353233908cdbfd065b659b0a75a67207e9d82ef4be"
+  },
+  {
+    "file": "domiki-posutochno/index.html",
+    "before_sha256": "3d8763136c53e960ad0c85711dd8d09658a9af198c466982b72c25da3e2c4a00",
+    "after_sha256": "4433d079e58b406131fcedecf2475c856a02ace441f7e1471a353d302e4c8b8d"
+  },
+  {
+    "file": "domiki-s-basseynom/index.html",
+    "before_sha256": "6703e90c6f17a06348e7056edb79075cbfc243878977cbe5a7047d3958011807",
+    "after_sha256": "ac817b31e0b8a9027d5307a3f24af662fef5ee591d8f30f3592af683827c987e"
+  },
+  {
+    "file": "domiki-s-kuhney/index.html",
+    "before_sha256": "049ed2e58658bfe3d6006d8685571ecd154b69ac6a484dc4b257e70920492cbb",
+    "after_sha256": "4c4106107947cf9e6c9cb074256362bfee49e01ba19d7cccf5401f3542ac1c31"
+  },
+  {
+    "file": "domiki-s-saunoy/index.html",
+    "before_sha256": "38ebcc30250b0446ae372826d4366b255efb10b6865df48c72b2afe0902f4cf9",
+    "after_sha256": "4a7038d3ffd7c049f3b2532a32c212b6254c6d66bd9bbb7b92f1e1b17cb42ca6"
+  },
+  {
+    "file": "fotosessiya-na-prirode/index.html",
+    "before_sha256": "2abf3a1d06a3f4a80d9a0fa877e401bccaf7e71fc6469894a34d3b5fc67e7825",
+    "after_sha256": "c74008efb68b501f306d231d0073e8027b0ad36dde432ad18b05785e8d162e35"
+  },
+  {
+    "file": "glempingi/index.html",
+    "before_sha256": "c48423a6ec5210b6c5c902b7c7a091e89bbdda274067ccd27d02758ac56aa943",
+    "after_sha256": "5a320ba159a025354e53670f48a1cbf34ed9747cb5d3c8918b117564127e4f5c"
+  },
+  {
+    "file": "index.html",
+    "before_sha256": "5e6ad4ed0d6d942ea676aa7467b48fa69b6936572baf1ce4cd17a34a4966981e",
+    "after_sha256": "242e741cc4a503137d594ff67ba29a558d55f267abe50a31e7d75aee71ffff2f"
+  },
+  {
+    "file": "istoriya-obnovleniy/index.html",
+    "before_sha256": "c806b802396593931eafff440a613e0b647df9e9f13a94aac6ac76aaebbf8791",
+    "after_sha256": "e6d7579e5acb10cc7520514a01e6035eea0173f01190e71168431f9ea8f26bf9"
+  },
+  {
+    "file": "kafe/index.html",
+    "before_sha256": "413e81a55dacf9dd89211b423e88c1ad56eb38e845dcab1467054255da99cb97",
+    "after_sha256": "7637206b7eaff2f89de22c1ad99655a83b4745584b75ec74dc424da6a43dbc69"
+  },
+  {
+    "file": "kak-my-proveryaem-bazy/index.html",
+    "before_sha256": "951d8e03a9b5de698aafd2d19132880c6e77fe404216fb0d0b1c0b5126f7eeab",
+    "after_sha256": "de6bc3b09c3a330903dd963597f90566473b20103d1835c41ae6b7f9501f9c95"
+  },
+  {
+    "file": "karta/index.html",
+    "before_sha256": "d55b699ebdd6f499876796a4507d111ebadf5883d0f87c3a18fbc04af0dfa4f0",
+    "after_sha256": "910c57e98d09dab20c0df3be9d0fb6c1b097659d16f3d5476c11ff95e3f3e542"
+  },
+  {
+    "file": "katalog/index.html",
+    "before_sha256": "e02cba640fdd37e0f73892b60165f31616f55c7b4c4bd40d95a44bd22c5f94db",
+    "after_sha256": "a35bbbd87883528ed556f25a7a67a47533d381d87b677320f7dffbcf21a8c2ed"
+  },
+  {
+    "file": "kontakty/index.html",
+    "before_sha256": "076198b42c8734daf89d0cd72dedbcd4a498b38aa1732387f3680d3074795419",
+    "after_sha256": "6ed86b609615fc7e82be9075e7adfb6ec9aa10678aade27d0b29e9a2e747e5ad"
+  },
+  {
+    "file": "korporativ/index.html",
+    "before_sha256": "9c37b8c5bed99f74e06f978d1ca44dd5a44374c42d90200c108cfff7f416ec0f",
+    "after_sha256": "b5617bdfff9e29da72b55ac7c2aedfdddf7aaad8c816d0955e7d44cf7c50614b"
+  },
+  {
+    "file": "letniy-otdyh/index.html",
+    "before_sha256": "947ee8292dea71c5d677a5097a211152a634375682beeb5215a09cf77568ff8c",
+    "after_sha256": "4567c85cf322355c91a206e1b2dda6676496592c8299495f453d40822467529a"
+  },
+  {
+    "file": "metodika-reytinga/index.html",
+    "before_sha256": "1c264c5d41d3ca5a9ca6eeb4e99e6ed1ef6d0e63a5ef8fc01d14ab3f029e7ef4",
+    "after_sha256": "9cf6c0046cde3d093c6d325d704ea55df987bd8c1a85f7853f99eb9b2ab6a24a"
+  },
+  {
+    "file": "nedorogie-bazy-otdyha/index.html",
+    "before_sha256": "a03a964dd3a977e3f8aa66a198ab20bc139a3f3b0d8873917d95f1f4fd8cd08b",
+    "after_sha256": "cd0cdab86ff9c1e1d694ec01ebb8d356a2b9fdbd6eb94ad59cbf87e734d79e68"
+  },
+  {
+    "file": "novyy-god/index.html",
+    "before_sha256": "e1b0b3d2cc3a95d7403754ae8fdb3406260469396badecccbd8b900d797e4552",
+    "after_sha256": "2fc0c8760e81768b11fd5c81f94c8fde48ab6b64cbe86edffa653e2333ad1623"
+  },
+  {
+    "file": "o-proekte/index.html",
+    "before_sha256": "6a0f7715495cba507deba88bbf9a6967c143970cc0eaa50ae93b1aa58445ccb2",
+    "after_sha256": "9682955d6a1a3e49cf406303cb1bd4a4e5d0611201640b750e9fea8b345afc4d"
+  },
+  {
+    "file": "osenniy-otdyh/index.html",
+    "before_sha256": "6a502d2e2891c1dcee63c9e4e596e302a6a12d62d222a792cb1e4de0c6e21f6f",
+    "after_sha256": "a42427fde08e537fbd899d1a75b4707b52b895ee3a29134f775cd23b750f5c1c"
+  },
+  {
+    "file": "otdyh-bez-nochevki/index.html",
+    "before_sha256": "33bb2e8a278dcfe9b48d75f4cc30576786566276b5ab17d1985b9b0eb510a3e3",
+    "after_sha256": "85471b535b3aa23030defc257924a7a243a6c4be5f49303e4998b135c39473a6"
+  },
+  {
+    "file": "otdyh-na-vyhodnye/index.html",
+    "before_sha256": "f73f72b225668e1b4c3c13f4d4398425a4357edd8a9bcf0243288ca2d3760655",
+    "after_sha256": "347a86c7106bb905ff3003681ad86790d920c7993a1d468b0fed24faafc97354"
+  },
+  {
+    "file": "podborki/index.html",
+    "before_sha256": "a1724d47e7d2021ed17e90ce7d6822d0a9b5826ded21148b92a08e4ba7ef4c67",
+    "after_sha256": "49fae81eb855f8132a1ea536d7365f8e62ff6f3f8e8c21bfb5bf99ea722c3287"
+  },
+  {
+    "file": "premium-otdyh/index.html",
+    "before_sha256": "34014be3eff424236c2474cc466fd8b9ee3d848c9b9ac0397bc68bac3a705365",
+    "after_sha256": "7de55224364afa5a154a1054362765315878c7d2e3a0330ff09e247dc810950a"
+  },
+  {
+    "file": "rating/index.html",
+    "before_sha256": "0e73771207ac9f7014d4dc51e9ce7e77849f16d9888e9bf20d68628e333ce5ca",
+    "after_sha256": "624d7d030f62d00d68219e8dcd5ba72d0cd2fe46344e34e183b89f4f140b8252"
+  },
+  {
+    "file": "redaktsiya/index.html",
+    "before_sha256": "e1ba6eaf64764a5e5052ed2f7ae136c408838c2a57f253dccec66dfe57d11533",
+    "after_sha256": "823a2e2e91561f932c7f155412dbfe14345aaeb4feb8767908f7155c6f34414f"
+  },
+  {
+    "file": "reklama-i-partnerstvo/index.html",
+    "before_sha256": "82eb6edb9e65e78a003d266ac0d6061fa3faa0ad769c0379273cedbc7e05693d",
+    "after_sha256": "b94db488018bdf6c617a88ceb767eb358b3907aa72158a0abb2947a23956d0c5"
+  },
+  {
+    "file": "romanticheskiy-otdyh/index.html",
+    "before_sha256": "d4b16cecc0cc1308a03b81f8e0eaf6fe37878856a74bf26e90bc3f226ae01422",
+    "after_sha256": "de17227cae4e8664c54acd4f36fda10446e06a76d165ac1d347a483d01dcd8a3"
+  },
+  {
+    "file": "romanticheskiy-otdyh/s-chanom/index.html",
+    "before_sha256": "ff84e897e473d75f249e91e39c35c7a9126b6fa047837906ded9ca786efef043",
+    "after_sha256": "82d9738d57574015230d1007120c7a53b07eadb1e11dd4b1e00beb90f8685dd7"
+  },
+  {
+    "file": "romanticheskiy-otdyh/s-saunoy/index.html",
+    "before_sha256": "a55cbc55fa1b9cd64e235c50f8d1afcf380af1acea337e287cac66479d324954",
+    "after_sha256": "6b0b2d9edee13142a8b34c2e0f89e6aac49e7b80c54a4f81454299ce16606b4b"
+  },
+  {
+    "file": "romanticheskiy-otdyh/u-vody/index.html",
+    "before_sha256": "f4d2248c35ac3aab0e88263b29f87031bcd3ce0a312ae5351b621e9524d87734",
+    "after_sha256": "83fe99064fdb1586bba3b8d04694249fe0b3a661183e2dfc0d4f54242743e7e2"
+  },
+  {
+    "file": "romanticheskiy-otdyh/v-lesu/index.html",
+    "before_sha256": "42c5ee57e2b1d89b009606470d3641c8fecb05716aada282bf0a36d472caef4d",
+    "after_sha256": "9aa0a0dcad4206869a42091fb8c5699711a9245def953fb887e70cf74ae48b09"
+  },
+  {
+    "file": "ryadom-s-izhevskom/index.html",
+    "before_sha256": "ee3f67f9d782d9938d152c02d05cd4441b66f44394d17efcfe19742664afa719",
+    "after_sha256": "542d210436492e8c74c74c669b08ff15947cf0e13d12d0d8d99554d4a46d2e02"
+  },
+  {
+    "file": "ryadom-s-sarapulom/index.html",
+    "before_sha256": "114e204baffb56a2aa420470db0e9a75ab77c5960ea7fb581fbb317bea3c43a3",
+    "after_sha256": "691e31d9f2ed8189c2eae435822bf1d02f7155cb1f1d0e17f6aa89885050c886"
+  },
+  {
+    "file": "ryadom-s-votkinskom/index.html",
+    "before_sha256": "0185ee9cde1ffc79fb5dff526028d6caef179580cec6fc02d0dc54de7a77afd8",
+    "after_sha256": "6a057e58332540055373dfe0eaed706ed658779497fb9538db342e091a182416"
+  },
+  {
+    "file": "services/animatory/index.html",
+    "before_sha256": "bff16860bb27d4d977f7877df2617265ac2184a1dbdcac6d5a36c76ec2a18a74",
+    "after_sha256": "15a7db887ea1e155e5a02e95437d24928e231ea71dee489640fcf71cc9856de7"
+  },
+  {
+    "file": "services/cover-bands/index.html",
+    "before_sha256": "08c82be23b6957922d2c67553135b715701b374edc54e75d91756ec1fe760354",
+    "after_sha256": "43b124d91d23cdf966f14d8e262ba55fe7ab94d6e5d9af2a3d9717776d3a890e"
+  },
+  {
+    "file": "services/dekor/index.html",
+    "before_sha256": "fec4375beed44bf6ac675a42d6a1249ea973f7912ec6940aca7cd5040148de8d",
+    "after_sha256": "8d8839fd897bece9cc27e16ba8f767d1206ea775d581bdec1dcc7f25aa573443"
+  },
+  {
+    "file": "services/dj/index.html",
+    "before_sha256": "2da69c65536969822305e50d519c02dc692bfa3603320f464dfe46fa82021d67",
+    "after_sha256": "3e984f22c6fb0338566bb9e8f707a919901f6e7af58a05e9d077e8c49155863a"
+  },
+  {
+    "file": "services/fotografy/index.html",
+    "before_sha256": "3c076c6c06a229c5dfdc36bf8ece694bf789b05769bc2e3173edf1f1d7ffe171",
+    "after_sha256": "3de597bd71836b5b5e9792550cf159fb18bd058ca76d4f53cf8dd89e90d45857"
+  },
+  {
+    "file": "services/index.html",
+    "before_sha256": "765be590508ca6cb15fe819624fd739eee913cec3c787fd24550d4274aa85ea4",
+    "after_sha256": "be5431b16279ad1ed9c713805a794502b427af8654c25f20d9e54deae60ca0ce"
+  },
+  {
+    "file": "services/muzykanty/index.html",
+    "before_sha256": "85d25e020e2ed9e63c2e4c3dd5cc02f3245cf376ea854bb9e6875bcedd602280",
+    "after_sha256": "6491e0b698e29245f22105b36e203da40f47d8ac19d960c325a4ab194e6ca570"
+  },
+  {
+    "file": "services/organizatory/index.html",
+    "before_sha256": "49049ced74c4c06b896ab3a6b4f9d4e3202882db24e997bc81b957e92924b99a",
+    "after_sha256": "413a36e79d16984b943a4cc9f072064050654ffd85a71990b3e702723e9a1040"
+  },
+  {
+    "file": "services/rostovye-kukly/index.html",
+    "before_sha256": "ee871fa06c0fc4665501a38ec0ff3fb12d9ecc1f2ded332310af40b974139107",
+    "after_sha256": "7ff249804e70969c49b26c031ec41b71333870340e770e596d01a8c12180abcd"
+  },
+  {
+    "file": "services/shou/index.html",
+    "before_sha256": "e9622378ae34171ded80d8010ab90fde9383a7589f26fb985ccdfb6a9e1e483a",
+    "after_sha256": "fae4d0bd32e8e037f68f3ffff2616bf354bb17be16bd8532f6b99f625e10a978"
+  },
+  {
+    "file": "services/tehnika/index.html",
+    "before_sha256": "689f5f8371b5b2fa14df5f178c24c5b9323afadc0917e16a2a2677c9013caa28",
+    "after_sha256": "5eb91fa3eba2a12ffa4fa6543dc97456836b3214b349b95b1075e11076e57d66"
+  },
+  {
+    "file": "services/timbilding/index.html",
+    "before_sha256": "cb0491b0d2d72dfa599af4c1e06a172e28116cc7439e644e5942aa8587e93641",
+    "after_sha256": "0046c78f89f3d83a645614b8fc288f87c8a28ec549028ebed3db3f8e81137671"
+  },
+  {
+    "file": "services/vedushchie/index.html",
+    "before_sha256": "e974008879fd452ee44e7c27af38f663657052994d474f01112d0098a0d3a5cb",
+    "after_sha256": "01f6962e5052ea290d6720d04260c1e9aaeb9ab3893b31d5fe521ea10ac99961"
+  },
+  {
+    "file": "services/videografy/index.html",
+    "before_sha256": "9fc899540567d6317b9a76e81a41e4736a9419677a18fc5fed2208b73815362e",
+    "after_sha256": "e35c047421489789b794443d51cd19df18693901645680b17cea3923591e3b17"
+  },
+  {
+    "file": "services/vokalisty/index.html",
+    "before_sha256": "d791c0661ff8c920a9f0e8814c4547719e18abe1fbe5346c08ea987ce27c8c6d",
+    "after_sha256": "debe867f870e76bae1bbe069f1f69f08589472cbf6025a92a4b49a4331fc6a30"
+  },
+  {
+    "file": "sitemap.xml",
+    "before_sha256": "a13265b7a31689e20792579809e7424dcdeb579a3ab987727321317bc0baef8d",
+    "after_sha256": "8fb6bac84a66153f421fe023f4c71f96971a22891014f367c4bfcd51c7d61199"
+  },
+  {
+    "file": "soobshit-ob-oshibke/index.html",
+    "before_sha256": "d3b7b1bb93e07cc526f9ac392779d0abf9fc215a203d3cdefb0d3be38f495f26",
+    "after_sha256": "4f79d89b25dd9c787f250cb7c9da8c1f80ddbe6945002a4d80ddbbf68872d441"
+  },
+  {
+    "file": "sravnenie/index.html",
+    "before_sha256": "b2a66c5cc16b814e213f04e61d2be59e0927fc928bd5b85b6e49e8b9822a5f5d",
+    "after_sha256": "8fac19e266a309531d4db4c9adbea646a4d34c8746e8d2aaa84408fb4c1f43b0"
+  },
+  {
+    "file": "sup-i-vodnye-aktivnosti/index.html",
+    "before_sha256": "ca1c41834ba4ebda6972796bad274107d9b7b17c4b2ea7fc351d4c6ec58b2f44",
+    "after_sha256": "1885a59d1d96c634dcde8f173fc243313608813c6090421d7b818eeba47de4dd"
+  },
+  {
+    "file": "svadba/index.html",
+    "before_sha256": "b35dc587aa3bf3c82291ee76854c5ec7bd49435d855f0ae3814b73e74624bda1",
+    "after_sha256": "8e8d9d1dbe99dc78145db315fc57d7dd8ae1c27c015d668c30bebce6b9de2b8a"
+  },
+  {
+    "file": "svadba-na-prirode/index.html",
+    "before_sha256": "7b4d7299415efd0e7c78630f5446d5151053c216e5cface77aeb61c707b937ff",
+    "after_sha256": "399b8ebf5649897d3f7ad9c09848aa58aad72e919239ccaeff8d80567f167353"
+  },
+  {
+    "file": "svadba-na-prirode/letom/index.html",
+    "before_sha256": "71a8d53b14620d427f5213206c7153484889477cfd4867d2d0a960fc92e8b148",
+    "after_sha256": "899f09978e332baafbe2f89fd598158d17c0959e451c70abef70baf2532511fe"
+  },
+  {
+    "file": "svadba-na-prirode/osenyu/index.html",
+    "before_sha256": "578d5ac213fdc756dbabd1fc2535dcf8cf48d6b86fa6affe7e2f99d84796767e",
+    "after_sha256": "f9a231f9ad55fc7ab63281dcbbdf9d66ab769878857ec90332cf6da70bc2e92d"
+  },
+  {
+    "file": "svadba-na-prirode/s-prozhivaniem/index.html",
+    "before_sha256": "f260da50d12e4b5eae9d68060c8aac5fc6ddf661c72919f5450bf7bc0c1aa18c",
+    "after_sha256": "2d8bf1fb0dffd1157376c08632a7bb24df20c511d1014acfcae41eae40acbd7e"
+  },
+  {
+    "file": "svadba-na-prirode/s-restoranom/index.html",
+    "before_sha256": "e09f6bb10d0f353c28428697bd024756090cbb35d1e5981b79f5ed1fc680408c",
+    "after_sha256": "32eb76eb297d78a9dcb0792342c2e9e0334977adc538d25c8125153d553879db"
+  },
+  {
+    "file": "svadba-na-prirode/shatry/index.html",
+    "before_sha256": "67714b6f3c6fa6333d01e23b08d04c3c8497ebb8ff09fdb6d35fd6114c6fb8a1",
+    "after_sha256": "285793c3e5b9895f2ab064c699f6a5e8c903a1ae3a0716a88a0ca1c922a65af4"
+  },
+  {
+    "file": "svadba-na-prirode/u-vody/index.html",
+    "before_sha256": "014fc0041b1abf8781cb75a4fe8787fd94bb3c27c7470ef4a691c98f22c30e0f",
+    "after_sha256": "87954f0dd1d9d6587fe4ae4c597a1de211162ee2d2000dfab8edd7e3bc429dcb"
+  },
+  {
+    "file": "svadba-na-prirode/v-lesu/index.html",
+    "before_sha256": "f28c945d2fad0d6fd043fdfef76a065d26998b9f26f3ae1f7fff006f6bc5d144",
+    "after_sha256": "4f47b779c9bc6bbba00d726f6834ca39fbe505e01aef9157f11a54526f54be7e"
+  },
+  {
+    "file": "svadba-na-prirode/vesnoy/index.html",
+    "before_sha256": "022672436be82f7b3ae8fb32bf676a3370fbfdb0f3bcaa43c64bb51dc84c7501",
+    "after_sha256": "eb058e74a4b75a952639f9548a2aa687f9b393ab6e7a224d211a7ef5aa4e6610"
+  },
+  {
+    "file": "svadba-na-prirode/zimoy/index.html",
+    "before_sha256": "0599a223e0ef434056622afe3ff0a5fecd4e1be5acf5bbd358c8e54655f5ed28",
+    "after_sha256": "31ef9fa357667abeeb6dd36637c69cee5835e117e53430644b48a9b2865f2a1d"
+  },
+  {
+    "file": "uedinennyy-otdyh/index.html",
+    "before_sha256": "36c213834a29666f4cdb80a88725ef3288aa49a71b10d59df4f29e24fa6c9439",
+    "after_sha256": "2750cd2a07dd513a0bd5102105ea4563207732194669bce131e2fb5cb15d2231"
+  },
+  {
+    "file": "urls-for-indexing.txt",
+    "before_sha256": "e755391c80215136970fed20aa7b3e3b54b39055bee5d0ebc0ab93288bbd6bc9",
+    "after_sha256": "9b22f38b5a2f7d332caba86f24b0f208a4e30268dbe28397f0b94f298475106f"
+  },
+  {
+    "file": "vesenniy-otdyh/index.html",
+    "before_sha256": "4c43ca39796f7d888a513f7447516979e77af77f67d3d85e6740e14a5cd68ffc",
+    "after_sha256": "83efe1096f9602930686a58c63c1b862c16b0c0c3620ffc45b48789277c1630a"
+  },
+  {
+    "file": "vypusknoy/index.html",
+    "before_sha256": "19229cadc464528a925154101e5dac2c053507444212e528be17d17f8d771300",
+    "after_sha256": "4ca4411e60658d57dfe4ce5e479727208d9eb474efe43350fb86da1db7aef225"
+  },
+  {
+    "file": "workation/index.html",
+    "before_sha256": "1e931aa449f73ed529f4202d09edda16c25bfd2597ded1ca059333e372312a10",
+    "after_sha256": "721931fe1e5b9d7e84fb4571e6482d86ce22f7da655752cc016c59bab2e76d90"
+  },
+  {
+    "file": "zimniy-otdyh/index.html",
+    "before_sha256": "231510e0ed599c212c84ec346d0d2faa9a17e13a8b83149d5e7f433f417159ae",
+    "after_sha256": "be7ce87cc2dc550670d1c2e8e3db878b0f00cb02b40c5c9de4bbda29dc68f154"
+  },
+  {
+    "file": "assets/index-DyhOV6Jn.js",
+    "before_sha256": "f7b9352a9e106e82e9945787a701c14d09341e07cee586af1a90fdfa9384ccfe",
+    "after_sha256": null,
+    "reason": "Generated asset replaced by content-hashed bundle"
+  }
+]
